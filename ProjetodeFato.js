@@ -1,5 +1,5 @@
 function ola() {
-  console.log('Hello word!')
-}
+  let helloWord = console.log('Hello word!')
 
-return ola()
+  return helloWord
+}
